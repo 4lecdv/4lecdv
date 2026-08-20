@@ -7,20 +7,11 @@ Estudiante y desarrollador apasionado por la programación y la tecnología.
 - Ciencia de Datos e Inteligencia Artificial
 - Desarrollo Backend — PHP, MySQL y WordPress
 
-### 💻 Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+### 💻 Tecnologías
 
-### ⚙️ Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,php)](https://skillicons.dev)
-
-### 🗄️ Bases de datos
-[![Bases de datos](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
-
-### 🌐 CMS
-[![CMS](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
-
-### 🛠️ Herramientas
-[![Herramientas](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+| Frontend | Backend | Bases de datos | Herramientas |
+|:---:|:---:|:---:|:---:|
+| [![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) | [![Backend](https://skillicons.dev/icons?i=nodejs,php)](https://skillicons.dev) | [![DB](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,wordpress)](https://skillicons.dev) |
 
 ### 🚀 Actualmente aprendiendo
 Ciencia de Datos · Inteligencia Artificial · Desarrollo Backend
