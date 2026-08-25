@@ -4,7 +4,7 @@ Estudiante y desarrollador apasionado por la programación y la tecnología.
 
 ### 🎓 Actualmente estudio
 
-- Ciencia de Datos e Inteligencia Artificial
+- Ciencia de Datos e Inteligencia Artificial - Python 
 - Desarrollo Backend — PHP, MySQL y WordPress
 
 ### 💻 Tecnologías
