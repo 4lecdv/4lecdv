@@ -11,7 +11,7 @@ Estudiante y desarrollador apasionado por la programación y la tecnología.
 
 | Frontend | Backend | Bases de datos | Data Science & IA | Herramientas |
 |:---:|:---:|:---:|:---:|:---:|
-| [![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) | [![Backend](https://skillicons.dev/icons?i=nodejs,php)](https://skillicons.dev) | [![DB](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev) | [![Data Science](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,wordpress)](https://skillicons.dev) |
+| [![Frontend](https://skillicons.dev/icons?i=html,css,js,make)](https://skillicons.dev) | [![Backend](https://skillicons.dev/icons?i=nodejs,php)](https://skillicons.dev) | [![DB](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev) | [![Data Science](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,wordpress)](https://skillicons.dev) |
 
 ### 🚀 Actualmente aprendiendo
 Ciencia de Datos · Inteligencia Artificial · Desarrollo Backend
