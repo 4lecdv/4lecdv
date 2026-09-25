@@ -1,11 +1,5 @@
-<h1 align="center">👋 ¡Hola! Soy Alex</h1>
-<p align="center">Estudiante y desarrollador apasionado por la programación y la tecnología.</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E8B84&center=true&vCenter=true&width=600&lines=Data+Science+%26+IA+con+Python;Desarrollo+Backend+con+PHP+%2B+MySQL;Automatizando+flujos+con+Make" alt="Typing SVG" />
-</p>
-
----
+# 👋 ¡Hola! Soy Alex
+Estudiante y desarrollador apasionado por la programación y la tecnología.
 
 ### 🎓 Actualmente estudio
 - Ciencia de Datos e Inteligencia Artificial — Python
