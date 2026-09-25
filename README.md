@@ -24,16 +24,3 @@ Diseño flujos de trabajo automatizados conectando APIs y servicios sin código:
 
 ### 🚀 Actualmente aprendiendo
 `Ciencia de Datos` · `Inteligencia Artificial` · `Desarrollo Backend` · `Automatización (Make)`
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
-</p>
-
-> Reemplaza `TU_USUARIO` por tu nombre de usuario de GitHub para que las tarjetas de estadísticas funcionen.
